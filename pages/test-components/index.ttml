@@ -1,0 +1,4 @@
+<view class="my-custom-component">
+  <text class="header">123123123213123</text>
+ <view id="tapTest" data-hi="bytedance" bindtap="tapName"> Click me! </view>
+</view>
